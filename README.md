@@ -1,3 +1,5 @@
+<img src="https://github.com/Truoux/Truoux-Exchange/blob/main/Truoux.png" alt="Truoux logo">
+
 # Truoux Exchange Research Center
 
 Independent research repository analyzing the infrastructure,
